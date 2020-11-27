@@ -3,6 +3,8 @@ pasta
 kheer
 maggie
 chiken fry
+beans
+pizza
 
 
 thank you
